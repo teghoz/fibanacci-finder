@@ -1,0 +1,15 @@
+C:\Users\Bernard\Documents\PROJECTS\Learnings\fibanacci-finder\FibanaciFinders\FibanaciFinders\bin\Debug\net6.0\FibanaciFinders.exe
+C:\Users\Bernard\Documents\PROJECTS\Learnings\fibanacci-finder\FibanaciFinders\FibanaciFinders\bin\Debug\net6.0\FibanaciFinders.deps.json
+C:\Users\Bernard\Documents\PROJECTS\Learnings\fibanacci-finder\FibanaciFinders\FibanaciFinders\bin\Debug\net6.0\FibanaciFinders.runtimeconfig.json
+C:\Users\Bernard\Documents\PROJECTS\Learnings\fibanacci-finder\FibanaciFinders\FibanaciFinders\bin\Debug\net6.0\FibanaciFinders.dll
+C:\Users\Bernard\Documents\PROJECTS\Learnings\fibanacci-finder\FibanaciFinders\FibanaciFinders\bin\Debug\net6.0\FibanaciFinders.pdb
+C:\Users\Bernard\Documents\PROJECTS\Learnings\fibanacci-finder\FibanaciFinders\FibanaciFinders\obj\Debug\net6.0\FibanaciFinders.csproj.AssemblyReference.cache
+C:\Users\Bernard\Documents\PROJECTS\Learnings\fibanacci-finder\FibanaciFinders\FibanaciFinders\obj\Debug\net6.0\FibanaciFinders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bernard\Documents\PROJECTS\Learnings\fibanacci-finder\FibanaciFinders\FibanaciFinders\obj\Debug\net6.0\FibanaciFinders.AssemblyInfoInputs.cache
+C:\Users\Bernard\Documents\PROJECTS\Learnings\fibanacci-finder\FibanaciFinders\FibanaciFinders\obj\Debug\net6.0\FibanaciFinders.AssemblyInfo.cs
+C:\Users\Bernard\Documents\PROJECTS\Learnings\fibanacci-finder\FibanaciFinders\FibanaciFinders\obj\Debug\net6.0\FibanaciFinders.csproj.CoreCompileInputs.cache
+C:\Users\Bernard\Documents\PROJECTS\Learnings\fibanacci-finder\FibanaciFinders\FibanaciFinders\obj\Debug\net6.0\FibanaciFinders.dll
+C:\Users\Bernard\Documents\PROJECTS\Learnings\fibanacci-finder\FibanaciFinders\FibanaciFinders\obj\Debug\net6.0\refint\FibanaciFinders.dll
+C:\Users\Bernard\Documents\PROJECTS\Learnings\fibanacci-finder\FibanaciFinders\FibanaciFinders\obj\Debug\net6.0\FibanaciFinders.pdb
+C:\Users\Bernard\Documents\PROJECTS\Learnings\fibanacci-finder\FibanaciFinders\FibanaciFinders\obj\Debug\net6.0\FibanaciFinders.genruntimeconfig.cache
+C:\Users\Bernard\Documents\PROJECTS\Learnings\fibanacci-finder\FibanaciFinders\FibanaciFinders\obj\Debug\net6.0\ref\FibanaciFinders.dll
